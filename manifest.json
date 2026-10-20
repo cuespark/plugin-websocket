@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-websocket/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-websocket/releases/download/v0.2.0-alpha.10/plugin-websocket.zip",
-  "sha256": "bbe4dd7aaedf89905f462d788fad6a7d2aa094a49f5e4ed65cc5797dff9c627e"
+  "sha256": "f98fdc6eca6d8cafb0c0bc386e23d368664d139d8c0b3ac055db2fef71bb8bbe"
 }

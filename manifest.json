@@ -6,8 +6,8 @@
   "icon": "ri:links-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-websocket/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-websocket/releases/download/v0.2.0-alpha.10/plugin-websocket.zip",
-  "sha256": "731f00de9d4b549b632d13860b9a4c2eec4a85c5d4d36a28344ce2af7a0ba426"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-websocket/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-websocket/releases/download/v0.2.0-alpha.10/plugin-websocket.zip",
+  "sha256": "fca5012018cd54e305786f4679d7ec07a00318c2cf463cee07e23dc31ed53385"
 }
